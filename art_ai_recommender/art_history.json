@@ -1,0 +1,30 @@
+{
+  "yanik123": [
+    {
+      "colorScheme": ["#261f1c", "#656c6c", "#edaf87"],
+      "artStyle": "Minimalist",
+      "artistMatch": "Agnes Martin",
+      "tools": "Ink pens, clean sketchbooks",
+      "tips": "Focus on composition and negative space.",
+      "imagePath": "/uploads/SAM_DOES.jpg"
+    },
+    {
+      "colorScheme": ["#3a3a3a", "#b2b2b2", "#f0e6d2"],
+      "artStyle": "Realism",
+      "artistMatch": "Leonardo da Vinci",
+      "tools": "Graphite, blending stumps",
+      "tips": "Study anatomy and use fine detailing.",
+      "imagePath": "/uploads/REALISTIC_DRAWING.png"
+    }
+  ],
+  "other_user": [
+    {
+      "colorScheme": ["#9b59b6", "#34495e", "#f1c40f"],
+      "artStyle": "Abstract",
+      "artistMatch": "Wassily Kandinsky",
+      "tools": "Acrylics, large brushes",
+      "tips": "Express emotion through color and form.",
+      "imagePath": "/uploads/abstract.jpg"
+    }
+  ]
+}
